@@ -5,7 +5,7 @@
 # Part I: The map
 
 - [What Android is](map/what-android-is.md)
-- [A tour of the layers]()
+- [A tour of the layers](map/a-tour-of-the-layers.md)
 - [The source tree and the build]()
 
 # Part II: Hardware and boot
