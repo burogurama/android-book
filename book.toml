@@ -5,6 +5,8 @@ language = "en"
 src = "src"
 
 [output.html]
+additional-css = ["theme/book-style.css"]
+additional-js = ["theme/book-extra.js"]
 site-url = "/android-book/"
 git-repository-url = "https://github.com/burogurama/android-book"
 default-theme = "light"
